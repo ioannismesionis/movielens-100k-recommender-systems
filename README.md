@@ -10,6 +10,7 @@ Welcome to this repository! This project is a deep dive into the world of recomm
 2. [Getting Started](#getting-started)
 3. [Notebooks](#notebooks)
    - [Collaborative Filtering](#collaborative-filtering)
+   - [Content-based Recommender](#content-based-recommender)
    - [Contextual Awareness Recommender Systems](#contextual-awareness-recommender-systems)
    - [Evaluation of Recommender Systems](#evaluation-of-recommender-systems)
 4. [Usage Instructions](#usage-instructions)
@@ -60,15 +61,23 @@ To ensure you replicate the exact environment, the repository includes a `uv.loc
 
 ### Collaborative Filtering
 
-Notebook: `notebooks/collaborative_filtering.ipynb`
+Notebook: `recommender-systems-notebooks/collaborative-filtering.ipynb`
 
 - Learn the fundamentals of collaborative filtering.
 - Implement both user-based and item-based collaborative filtering.
 - Analyze strengths and weaknesses with real-world examples.
 
+### Content-based Recommender
+
+Notebook: `recommender-systems-notebooks/content-based.ipynb`
+
+- Learn the fundamentals of content-based recommenders.
+- Implement popular algorithms.
+- Analyze strengths and weaknesses with real-world examples.
+
 ### Contextual Awareness Recommender Systems
 
-Notebook: `notebooks/contextual_aware_recommender.ipynb`
+Notebook: `recommender-systems-notebooks/contextual-aware-recommender.ipynb`
 
 - Explore the role of context in recommendations.
 - Implement contextual modeling techniques.
@@ -76,7 +85,7 @@ Notebook: `notebooks/contextual_aware_recommender.ipynb`
 
 ### Evaluation of Recommender Systems
 
-Notebook: `notebooks/evaluation.ipynb`
+Notebook: `recommender-systems-notebooks/evaluation-recommenders.ipynb`
 
 - Understand evaluation metrics for recommender systems.
 - Compare accuracy, diversity, novelty, and fairness.
