@@ -1,13 +1,6 @@
-# Recommender Systems: A Comprehensive Guide
-
-Welcome to this repository! This project was part of my own research to better understand recommender systems. If I had to describe the repo, I would consider it a distillation of the different resources I have read online and it's heavily based on the book "Recommender Systems: The Textbook" from Chary Aggarwal and implementations of the Cornac library. It includes notebooks on collaborative filtering, content-based recommenders, contextual awareness recommenders (using time as context), and different evaluation techniques used for recommender systems.
-
----
-
 ## Table of Contents
 
 - [Recommender Systems: A Comprehensive Guide](#recommender-systems-a-comprehensive-guide)
-  - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
@@ -17,6 +10,11 @@ Welcome to this repository! This project was part of my own research to better u
     - [Content-based Recommender](#content-based-recommender)
     - [Contextual Awareness Recommender Systems](#contextual-awareness-recommender-systems)
     - [Evaluation of Recommender Systems](#evaluation-of-recommender-systems)
+
+---
+# Recommender Systems: A Comprehensive Guide
+
+Welcome to this repository! This project was part of my own research to better understand recommender systems. If I had to describe the repo, I would consider it a distillation of the different resources I have read online and it's heavily based on the book "Recommender Systems: The Textbook" from Chary Aggarwal and implementations of the Cornac library. It includes notebooks on collaborative filtering, content-based recommenders, contextual awareness recommenders (using time as context), and different evaluation techniques used for recommender systems.
 
 ---
 
